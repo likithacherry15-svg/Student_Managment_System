@@ -1,0 +1,149 @@
+[
+    {
+        "type": "Student",
+        "student_id": "STU001",
+        "name": "Rahul Sharma",
+        "age": 20,
+        "email": "rahul.sharma@example.com",
+        "phone": "9876543210",
+        "department": "CSE",
+        "year": 2,
+        "semester": 4,
+        "subjects": [
+            "Python",
+            "DBMS",
+            "Data Structures",
+            "Computer Networks"
+        ],
+        "marks": {
+            "Python": 88.5,
+            "DBMS": 82.0,
+            "Data Structures": 79.0,
+            "Computer Networks": 85.0
+        },
+        "attendance": {
+            "conducted": 60,
+            "attended": 54,
+            "last_updated": "2026-10-06 15:55:30"
+        },
+        "enrollment_date": "2024-08-15"
+    },
+    {
+        "type": "ScholarshipStudent",
+        "student_id": "STU002",
+        "name": "Priya Patel",
+        "age": 21,
+        "email": "priya.patel@example.com",
+        "phone": "9876543211",
+        "department": "CSE-AI",
+        "year": 3,
+        "semester": 6,
+        "subjects": [
+            "Machine Learning",
+            "Deep Learning",
+            "Python",
+            "Computer Vision"
+        ],
+        "marks": {
+            "Machine Learning": 94.0,
+            "Deep Learning": 91.5,
+            "Python": 96.0,
+            "Computer Vision": 89.0
+        },
+        "attendance": {
+            "conducted": 60,
+            "attended": 57,
+            "last_updated": "2026-10-06 15:55:30"
+        },
+        "enrollment_date": "2023-08-10",
+        "scholarship_name": "Dean's Merit Excellence Award",
+        "scholarship_percentage": 50.0
+    },
+    {
+        "type": "Student",
+        "student_id": "STU003",
+        "name": "Amit Kumar",
+        "age": 19,
+        "email": "amit.kumar@example.com",
+        "phone": "9876543212",
+        "department": "ECE",
+        "year": 1,
+        "semester": 2,
+        "subjects": [
+            "Digital Electronics",
+            "Circuit Theory",
+            "Signals & Systems",
+            "Python"
+        ],
+        "marks": {
+            "Digital Electronics": 62.0,
+            "Circuit Theory": 55.0,
+            "Signals & Systems": 48.0,
+            "Python": 58.0
+        },
+        "attendance": {
+            "conducted": 50,
+            "attended": 34,
+            "last_updated": "2026-10-06 15:55:30"
+        },
+        "enrollment_date": "2025-08-20"
+    },
+    {
+        "type": "GraduateStudent",
+        "student_id": "STU004",
+        "name": "Ananya Roy",
+        "age": 23,
+        "email": "ananya.roy@example.com",
+        "phone": "9876543213",
+        "department": "EEE",
+        "year": 1,
+        "semester": 2,
+        "subjects": [
+            "Advanced Power Systems",
+            "Smart Grids",
+            "Renewable Energy"
+        ],
+        "marks": {
+            "Advanced Power Systems": 90.0,
+            "Smart Grids": 87.5,
+            "Renewable Energy": 92.0
+        },
+        "attendance": {
+            "conducted": 45,
+            "attended": 43,
+            "last_updated": "2026-10-06 15:55:30"
+        },
+        "enrollment_date": "2025-08-01",
+        "research_topic": "Smart Grid Energy Optimization Using IoT",
+        "advisor_name": "Dr. S. K. Verma"
+    },
+    {
+        "type": "Student",
+        "student_id": "STU005",
+        "name": "Vikas Singh",
+        "age": 20,
+        "email": "vikas.singh@example.com",
+        "phone": "9876543214",
+        "department": "CSE",
+        "year": 2,
+        "semester": 3,
+        "subjects": [
+            "Python",
+            "DBMS",
+            "Operating Systems",
+            "Discrete Math"
+        ],
+        "marks": {
+            "Python": 72.0,
+            "DBMS": 68.0,
+            "Operating Systems": 75.0,
+            "Discrete Math": 70.0
+        },
+        "attendance": {
+            "conducted": 50,
+            "attended": 40,
+            "last_updated": "2026-10-06 15:55:30"
+        },
+        "enrollment_date": "2024-08-15"
+    }
+]
